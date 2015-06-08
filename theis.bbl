@@ -1,0 +1,234 @@
+\newcommand{\noopsort}[1]{}
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryearch{Allen, Curless \& Popovi\'{c}}{Allen
+  et~al.}{}{2003}]{Allen:2003:SHB}
+Allen, B., Curless, B., \& Popovi\'{c}, Z. (2003).
+\newblock The space of human body shapes: Reconstruction and parameterization
+  from range scans.
+\newblock {\em ACM Trans. Graph.}, {\em 22\/}(3), 587--594.
+
+\bibitem[\protect\citeauthoryearch{Anguelov, Srinivasan, Koller, Thrun, Rodgers
+  \& Davis}{Anguelov et~al.}{}{2005}]{Anguelov:2005:SSC}
+Anguelov, D., Srinivasan, P., Koller, D., Thrun, S., Rodgers, J., \& Davis, J.
+  (2005).
+\newblock Scape: Shape completion and animation of people.
+\newblock {\em ACM Trans. Graph.}, {\em 24\/}(3), 408--416.
+
+\bibitem[\protect\citeauthoryearch{Assassi, Becker \&
+  Magnenat-Thalmann}{Assassi et~al.}{}{2012}]{Assassi:2012:dynamic}
+Assassi, L., Becker, M., \& Magnenat-Thalmann, N. (2012).
+\newblock Dynamic skin deformation based on biomechanical modeling.
+\newblock In {\em Proceedings of the 25th Annual Conference on Computer
+  Animation and Social Agents}.
+
+\bibitem[\protect\citeauthoryearch{Capell, Green, Curless, Duchamp \&
+  Popovi\'{c}}{Capell et~al.}{}{2002}]{Capell:2002:ISD}
+Capell, S., Green, S., Curless, B., Duchamp, T., \& Popovi\'{c}, Z. (2002).
+\newblock Interactive skeleton-driven dynamic deformations.
+\newblock {\em ACM Trans. Graph.}, {\em 21\/}(3), 586--593.
+
+\bibitem[\protect\citeauthoryearch{Cook}{Cook}{}{1994}]{Cook:1995:finite}
+Cook, R.~D. (1994).
+\newblock {\em Finite Element Modeling for Stress Analysis\/} (1st ed.).
+\newblock New York, NY, USA: John Wiley \& Sons, Inc.
+
+\bibitem[\protect\citeauthoryearch{Fratarcangeli}{Fratarcangeli}{}{2005}]{Fratarcangeli:2005:physically}
+Fratarcangeli, M. (2005).
+\newblock Physically based synthesis of animatable face models.
+\newblock In {\em Proceedings of the Second International Workshop on Virtual
+  Reality and Physical Simulation (VRIPHYS05)}, (pp.\ 32--39).
+
+\bibitem[\protect\citeauthoryearch{Georgii, Lagler, Dick \& Westermann}{Georgii
+  et~al.}{}{2010}]{Georgii:2010:SkeletalFEM}
+Georgii, J., Lagler, D., Dick, C., \& Westermann, R. (2010).
+\newblock Interactive deformations with multigrid skeletal constraints.
+\newblock In {\em Proceedings of the 7th Workshop on Virtual Reality
+  Interaction and Physical Simulation (VRIPHYS) 2010}, (pp.\ 39--47).
+
+\bibitem[\protect\citeauthoryearch{Georgii \& Westermann}{Georgii \&
+  Westermann}{}{2008}]{Georgii:2008:corotated}
+Georgii, J. \& Westermann, R. (2008).
+\newblock Corotated finite elements made fast and stable.
+\newblock In {\em Proceedings of the 5th Workshop On Virtual Reality
+  Interaction and Physical Simulation}, (pp.\ 11--19).
+
+\bibitem[\protect\citeauthoryearch{Gottschalk, Lin \& Manocha}{Gottschalk
+  et~al.}{}{1996}]{Gottschalk:1996:OHS}
+Gottschalk, S., Lin, M.~C., \& Manocha, D. (1996).
+\newblock Obbtree: A hierarchical structure for rapid interference detection.
+\newblock In {\em Proceedings of the 23rd Annual Conference on Computer
+  Graphics and Interactive Techniques}, SIGGRAPH '96, (pp.\ 171--180).
+
+\bibitem[\protect\citeauthoryearch{Kavan, Collins, \v{Z}\'{a}ra \&
+  O'Sullivan}{Kavan et~al.}{}{2007}]{Kavan:2007:SDQ}
+Kavan, L., Collins, S., \v{Z}\'{a}ra, J., \& O'Sullivan, C. (2007).
+\newblock Skinning with dual quaternions.
+\newblock In {\em Proceedings of the 2007 Symposium on Interactive 3D Graphics
+  and Games}, I3D '07, (pp.\ 39--46).
+
+\bibitem[\protect\citeauthoryearch{Labelle \& Shewchuk}{Labelle \&
+  Shewchuk}{}{2007}]{Labelle:2007:ISF}
+Labelle, F. \& Shewchuk, J.~R. (2007).
+\newblock Isosurface stuffing: Fast tetrahedral meshes with good dihedral
+  angles.
+\newblock {\em ACM Transactions on Graphics}, {\em 26\/}(3), 57.1--57.10.
+
+\bibitem[\protect\citeauthoryearch{Lee}{Lee}{}{2008}]{Lee:2008:BMC}
+Lee, S.~H. (2008).
+\newblock {\em Biomechanical Modeling and Control of the Human Body for
+  Computer Animation}.
+\newblock PhD thesis, University of California at Los Angeles, Los Angeles, CA,
+  USA.
+
+\bibitem[\protect\citeauthoryearch{Lee, Sifakis \& Terzopoulos}{Lee
+  et~al.}{}{2009}]{Lee:2009:CBM}
+Lee, S.-H., Sifakis, E., \& Terzopoulos, D. (2009).
+\newblock Comprehensive biomechanical modeling and simulation of the upper
+  body.
+\newblock {\em ACM Trans. Graph.}, {\em 28\/}(4), 99:1--99:17.
+
+\bibitem[\protect\citeauthoryearch{Lee \& Terzopoulos}{Lee \&
+  Terzopoulos}{}{2006}]{Lee:2006:HUB}
+Lee, S.-H. \& Terzopoulos, D. (2006).
+\newblock Heads up!: Biomechanical modeling and neuromuscular control of the
+  neck.
+\newblock {\em ACM Trans. Graph.}, {\em 25\/}(3), 1188--1198.
+
+\bibitem[\protect\citeauthoryearch{Lewis, Cordner \& Fong}{Lewis
+  et~al.}{}{2000}]{Lewis:2000:PSD}
+Lewis, J.~P., Cordner, M., \& Fong, N. (2000).
+\newblock Pose space deformation: A unified approach to shape interpolation and
+  skeleton-driven deformation.
+\newblock In {\em Proceedings of the 27th Annual Conference on Computer
+  Graphics and Interactive Techniques}, SIGGRAPH '00, (pp.\ 165--172).
+
+\bibitem[\protect\citeauthoryearch{Maas, Ellis, Ateshian \& Weiss}{Maas
+  et~al.}{}{2012}]{Maas:2012:febio}
+Maas, S.~A., Ellis, B.~J., Ateshian, G.~A., \& Weiss, J.~A. (2012).
+\newblock F{E}{B}io: finite elements for biomechanics.
+\newblock {\em Journal of biomechanical engineering}, {\em 134\/}(1).
+
+\bibitem[\protect\citeauthoryearch{Mohr \& Gleicher}{Mohr \&
+  Gleicher}{}{2003}]{Mohr:2003:BEA}
+Mohr, A. \& Gleicher, M. (2003).
+\newblock Building efficient, accurate character skins from examples.
+\newblock {\em ACM Trans. Graph.}, {\em 22\/}(3), 562--568.
+
+\bibitem[\protect\citeauthoryearch{Molino, Bridson, Teran \& Fedkiw}{Molino
+  et~al.}{}{2003}]{Molino:2003:acrystalline}
+Molino, N., Bridson, R., Teran, J., \& Fedkiw, R. (2003).
+\newblock A crystalline, red green strategy for meshing highly deformable
+  objects with tetrahedra.
+\newblock In {\em In 12th Int. Meshing Roundtable}, (pp.\ 103--114).
+
+\bibitem[\protect\citeauthoryearch{M\"{u}ller, Dorsey, McMillan, Jagnow \&
+  Cutler}{M\"{u}ller et~al.}{}{2002}]{Muller:2002:SRD}
+M\"{u}ller, M., Dorsey, J., McMillan, L., Jagnow, R., \& Cutler, B. (2002).
+\newblock Stable real-time deformations.
+\newblock In {\em Proceedings of the 2002 ACM SIGGRAPH/Eurographics Symposium
+  on Computer Animation}, SCA '02, (pp.\ 49--54).
+
+\bibitem[\protect\citeauthoryearch{M\"{u}ller \& Gross}{M\"{u}ller \&
+  Gross}{}{2004}]{Muller:2004:IVM}
+M\"{u}ller, M. \& Gross, M. (2004).
+\newblock Interactive virtual materials.
+\newblock In {\em Proceedings of Graphics Interface 2004}, GI '04, (pp.\
+  239--246).
+
+\bibitem[\protect\citeauthoryearch{Neumann, Varanasi, Hasler, Wacker, Magnor \&
+  Theobalt}{Neumann et~al.}{}{2013}]{Neumann:2013:muscles}
+Neumann, T., Varanasi, K., Hasler, N., Wacker, M., Magnor, M., \& Theobalt, C.
+  (2013).
+\newblock Capture and statistical modeling of arm-muscle deformations.
+\newblock {\em Computer Graphics Forum}, {\em 32\/}(2), 285--294.
+
+\bibitem[\protect\citeauthoryearch{Park \& Hodgins}{Park \&
+  Hodgins}{}{2008}]{Park:2008:DMS}
+Park, S.~I. \& Hodgins, J.~K. (2008).
+\newblock Data-driven modeling of skin and muscle deformation.
+\newblock {\em ACM Trans. Graph.}, {\em 27\/}(3), 96:1--96:6.
+
+\bibitem[\protect\citeauthoryearch{Rhee, Lewis \& Neumann}{Rhee
+  et~al.}{}{2006}]{Rhee:2006:real}
+Rhee, T., Lewis, J.~P., \& Neumann, U. (2006).
+\newblock Real-time weighted pose-space deformation on the gpu.
+\newblock {\em Computer Graphics Forum}, {\em 25\/}(3), 439--448.
+
+\bibitem[\protect\citeauthoryearch{Schenk \& G{\"a}rtner}{Schenk \&
+  G{\"a}rtner}{}{2004}]{Schenk:2004:solving}
+Schenk, O. \& G{\"a}rtner, K. (2004).
+\newblock Solving unsymmetric sparse systems of linear equations with pardiso.
+\newblock {\em Future Generation Computer Systems}, {\em 20\/}(3), 475--487.
+
+\bibitem[\protect\citeauthoryearch{Si}{Si}{}{2006}]{Si:2006:quality}
+Si, H. (2006).
+\newblock Tetgen: A quality tetrahedral mesh generator and three-dimensional
+  delaunay triangulator.
+\newblock Weierstrass Institute for Applied Analysis and Stochastic, Berlin,
+  Germany.
+
+\bibitem[\protect\citeauthoryearch{Sifakis, Der \& Fedkiw}{Sifakis
+  et~al.}{}{2007}]{Sifakis:2007:ACD}
+Sifakis, E., Der, K.~G., \& Fedkiw, R. (2007).
+\newblock Arbitrary cutting of deformable tetrahedralized objects.
+\newblock In {\em Proceedings of the 2007 ACM SIGGRAPH/Eurographics Symposium
+  on Computer Animation}, SCA '07, (pp.\ 73--80).
+
+\bibitem[\protect\citeauthoryearch{Sifakis, Neverov \& Fedkiw}{Sifakis
+  et~al.}{}{2005}]{Sifakis:2005:facial}
+Sifakis, E., Neverov, I., \& Fedkiw, R. (2005).
+\newblock Automatic determination of facial muscle activations from sparse
+  motion capture marker data.
+\newblock {\em ACM Trans. Graph.}, {\em 24\/}(3), 417--425.
+
+\bibitem[\protect\citeauthoryearch{Stavness, Lloyd, Payan \& Fels}{Stavness
+  et~al.}{}{2011}]{Stavness:2011:CNM}
+Stavness, I., Lloyd, J.~E., Payan, Y., \& Fels, S. (2011).
+\newblock Coupled hard¨csoft tissue simulation with contact and constraints
+  applied to jaw¨ctongue¨chyoid dynamics.
+\newblock {\em International Journal for Numerical Methods in Biomedical
+  Engineering}, {\em 27\/}(3), 367--390.
+
+\bibitem[\protect\citeauthoryearch{Tan, Turk \& Liu}{Tan
+  et~al.}{}{2012}]{Tan:2012:SBL}
+Tan, J., Turk, G., \& Liu, C.~K. (2012).
+\newblock Soft body locomotion.
+\newblock {\em ACM Trans. Graph.}, {\em 31\/}(4), 26:1--26:11.
+
+\bibitem[\protect\citeauthoryearch{UHM}{UHM}{}{}]{www:UHM}
+UHM.
+\newblock Ultimate human model data set.
+\newblock \url{http://www.cgcharacter.com/ultimatehuman.html}.
+\newblock Accessed: 2013-02-12.
+
+\bibitem[\protect\citeauthoryearch{van Tol \& Egges}{van Tol \&
+  Egges}{}{2009}]{van:2009:real}
+van Tol, W. \& Egges, A. (2009).
+\newblock Real-time crying simulation.
+\newblock In {\em Intelligent Virtual Agents}, (pp.\ 215--228). Springer.
+
+\bibitem[\protect\citeauthoryearch{Vasavada, Li \& Delp}{Vasavada
+  et~al.}{}{1998}]{vasavada:1998:influence}
+Vasavada, A.~N., Li, S., \& Delp, S.~L. (1998).
+\newblock Influence of muscle morphometry and moment arms on the
+  moment-generating capacity of human neck muscles.
+\newblock {\em Spine}, {\em 23\/}(4), 412--422.
+
+\bibitem[\protect\citeauthoryearch{Zhang, Prakash \& Sung}{Zhang
+  et~al.}{}{2004}]{Zhang:2004:NPM}
+Zhang, Y., Prakash, E.~C., \& Sung, E. (2004).
+\newblock A new physical model with multilayer architecture for facial
+  expression animation using dynamic adaptive mesh.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics}, {\em
+  10\/}(3), 339--352.
+
+\bibitem[\protect\citeauthoryearch{Zordan, Celly, Chiu \& DiLorenzo}{Zordan
+  et~al.}{}{2004}]{Zordan:2004:breathe}
+Zordan, V.~B., Celly, B., Chiu, B., \& DiLorenzo, P.~C. (2004).
+\newblock Breathe easy: model and control of simulated respiration for
+  animation.
+\newblock In {\em Proceedings of the 2004 ACM SIGGRAPH/Eurographics symposium
+  on Computer animation}, (pp.\ 29--37). Eurographics Association.
+
+\end{thebibliography}
